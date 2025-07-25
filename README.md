@@ -1,4 +1,4 @@
-# Labubu Bot - Automated Pop Mart Collectible Purchase Tool
+# Labubu Bot - Automated Collectible Purchase Tool
 
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
@@ -135,7 +135,7 @@ For advanced proxy configuration and troubleshooting:
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](https://github.com/Decodo/Decodo/blob/master/LICENSE).
 
 ## Related projects & resources
 
